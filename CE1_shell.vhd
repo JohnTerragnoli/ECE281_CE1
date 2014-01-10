@@ -49,6 +49,7 @@ E <= B and C;
 F <= D or E;
 
 ---hahahahahahahaha this is so awesome!!!!
+--this is super duper!!
 
 end Behavioral;
 
