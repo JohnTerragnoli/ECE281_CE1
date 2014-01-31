@@ -7,9 +7,9 @@ Captain Silva's lame circuit xD
 
 
 This is the truth table:
-![alt text](https://github.com/JohnTerragnoli/ECE281_CE1/blob/master/truth%20table.jpg "Truth Table")
+![alt text](https://raw.github.com/JohnTerragnoli/ECE281_CE1/master/truth%20table.jpg "Truth Table")
 
 
 These are the simulation results:
-![alt text](https://github.com/JohnTerragnoli/ECE281_CE1/blob/master/Terragnoli_Simulation_Results.PNG "Testbench Waveform")
+![alt text](https://raw.github.com/JohnTerragnoli/ECE281_CE1/master/Terragnoli_Simulation_Results.PNG "Testbench Waveform")
 
